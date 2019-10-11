@@ -1,18 +1,19 @@
 /**
- * Classe Hello World pour le TP1 du cours de Java
+ * 
  */
-package TP1;
+package TP2;
 
 /**
- * @author Virginie Van den Schrieck
+ * @author Victoire
  *
  */
 public class HelloWorld {
 
 	/**
-	 * @param args les arguments de la ligne de commande
+	 * @param args
 	 */
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 
 	}
