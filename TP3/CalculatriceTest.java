@@ -9,6 +9,8 @@ class CalculatriceTest {
 	@Test
 	void testCalculatrice() {
 		fail("Not yet implemented");
+		/*Calculatrice calc =  new Calculatrice();
+		assertEquals(0, calc.carre(0));*/
 	}
 
 }
